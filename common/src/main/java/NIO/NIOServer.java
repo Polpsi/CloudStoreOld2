@@ -70,5 +70,3 @@ public class NIOServer implements Runnable {
         new Thread(new NIOServer()).start();
     }
 }
-
-//____
